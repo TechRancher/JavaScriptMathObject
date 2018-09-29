@@ -6,6 +6,8 @@ This was put together for me to just practice on JavaScript functions/methods to
 I am using W3School JavaScript Math Object functions/methods for practice.
 There website for JavaScript Math Object is https://www.w3schools.com/js/js_math.asp
 There website for JavaScript Tutroial is https://www.w3schools.com/js/default.asp
+I also used examples from MDM Web Docs JavaScript Reference Math Methods.
+Their website is https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/abs
 
 I commented out the functions in the practice.js file, so in order to run them you must uncomment them.
 I have it setup to run only one function at a time.
